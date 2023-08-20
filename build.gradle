@@ -17,7 +17,7 @@ project.ext.lwjglVersion = "3.3.2"
 project.ext.jomlVersion = "1.10.5"
 
 group = project_group_id
-version = project_veraion
+version = project_version
 
 switch (OperatingSystem.current()) {
     case OperatingSystem.WINDOWS:
